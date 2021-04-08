@@ -1,0 +1,60 @@
+body {
+    background-color:rgb(238, 120, 120);
+    font-family: sans-serif;
+}
+
+.form {
+    background-color: rgb(235, 235, 235);
+    color: gray;
+    text-align: center;
+    height: 330px;
+    width: 550px;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    padding-top: 30px;
+}
+    
+ input {
+    border: solid thin;
+    border-color: lightgray;
+    margin-bottom: 20px;
+    display: block;
+    height: 50px;
+    width: 400px;
+    margin-left: 75px;
+}
+label {
+    display: block;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 16px;
+    color: rgb(184, 182, 182);
+}
+.form-button {
+   background-color:rgb(119, 219, 219);
+   margin-top: 10px;
+   height: 45px;
+   width: 133px;
+   border: none;
+   color: white;
+}
+
+.form-checkbox {
+    margin-top: 20px;
+    margin-left: -190px;
+    position: absolute;
+}
+
+.form-checkbox input {
+    height: 20px;
+}
+.form-checkbox label {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -38px;
+}
+ 
